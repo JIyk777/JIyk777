@@ -17,7 +17,8 @@
       <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="30"/>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQV1cIpb33fBK5EvEbDwHbxicUe-Z8HrkBQ&usqp=CAU" width="30"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="30"/>
-      <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="30"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiYazU-xN5ojc8QKE4dkDxmaHpw91yDpnCOuQblE4Qxl9As0klk4npAfpn1Bumj0flks&usqp=CAU" width="30"/>
+      <img src="https://image.pngaaa.com/668/4547668-middle.png" width="30"/>
     </div>
   </div>
 </div>
