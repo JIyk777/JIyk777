@@ -15,13 +15,9 @@
     <h4>My stack</h4>
     <div>
       <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="40"/>  
-      
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQV1cIpb33fBK5EvEbDwHbxicUe-Z8HrkBQ&usqp=CAU" width="40"/>
-      
+      <img style="margin-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQV1cIpb33fBK5EvEbDwHbxicUe-Z8HrkBQ&usqp=CAU" width="40"/>
       <img  src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="40"/>  
- 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiYazU-xN5ojc8QKE4dkDxmaHpw91yDpnCOuQblE4Qxl9As0klk4npAfpn1Bumj0flks&usqp=CAU" width="40"/>  
-      
       <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" width="40"/>  
     </div>
   </div>
