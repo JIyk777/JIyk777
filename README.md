@@ -18,7 +18,7 @@
       
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQV1cIpb33fBK5EvEbDwHbxicUe-Z8HrkBQ&usqp=CAU" width="40"/>
       
-      <img style="margin-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="40"/>  
+      <img  src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="40"/>  
  
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiYazU-xN5ojc8QKE4dkDxmaHpw91yDpnCOuQblE4Qxl9As0klk4npAfpn1Bumj0flks&usqp=CAU" width="40"/>  
       
