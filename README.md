@@ -14,7 +14,7 @@
     </ul>
     <p>My stack</p>
     <div>
-     <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="30"/>
+     <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="30"/>
     </div>
   </div>
 </div>
