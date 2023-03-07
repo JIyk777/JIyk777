@@ -1,7 +1,7 @@
 <div>
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="80"/>
-    <p>Dreams are achievable &#129310</p>
+    <h1>Dreams are achievable &#129310</h1>
   </div>
   <div>
     <p>Hi there, I'm Kostya &#128075</p>
