@@ -14,7 +14,10 @@
     </ul>
     <p>My stack</p>
     <div>
-     <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="30"/>
+      <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="30"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQV1cIpb33fBK5EvEbDwHbxicUe-Z8HrkBQ&usqp=CAU" width="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="30"/>
+      <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="30"/>
     </div>
   </div>
 </div>
