@@ -2,9 +2,15 @@
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="80"/>
     <div id="badges">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-      <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-      <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+      <a href="https://www.linkedin.com/in/kostya-buzanov/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.youtube.com/@shaparun">
+        <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      </a>
+      <a href="https://www.facebook.com/kostyabuzanov">
+       <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+      </a>
       <div><img src="https://komarev.com/ghpvc/?username=JIyk777&style=flat-square&color=blue" alt=""/></div>
     </div>
     <h1>Dreams are achievable &#129310</h1>
