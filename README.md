@@ -13,9 +13,9 @@
       <li>&#128231 How to reach me: <a href="mailto:buzanov.kostya@gmail.com">buzanov.kostya@gmail.com</a></li>
     </ul>
     <p>My stack</p>
-    
-    <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="30"/>
-   
+    <div>
+     <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="30"/>
+    </div>
   </div>
 </div>
 
