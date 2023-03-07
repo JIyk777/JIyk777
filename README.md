@@ -18,7 +18,7 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQV1cIpb33fBK5EvEbDwHbxicUe-Z8HrkBQ&usqp=CAU" width="30"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="30"/>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiYazU-xN5ojc8QKE4dkDxmaHpw91yDpnCOuQblE4Qxl9As0klk4npAfpn1Bumj0flks&usqp=CAU" width="30"/>
-      <img src="https://image.pngaaa.com/668/4547668-middle.png" width="30"/>
+      <img src="https://www.techwell.com/sites/default/files/stories/images/cropped_teasers/Beth%20Romanik/2019/node-js-tutorial.png" width="30"/>
     </div>
   </div>
 </div>
