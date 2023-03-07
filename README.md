@@ -1,6 +1,6 @@
 <div>
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/iIZO5d4IfSa0nkyLju/giphy.gif" width="80"/>
     <p>Dreams are achievable &#129310</p>
   </div>
   <div>
@@ -12,6 +12,10 @@
       <li>&#128214 I like to learn</li>
       <li>&#128231 How to reach me: <a href="mailto:buzanov.kostya@gmail.com">buzanov.kostya@gmail.com</a></li>
     </ul>
+    <p>My stack</p>
+    
+    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736401_960_720.png" width="30"/>
+   
   </div>
 </div>
 
